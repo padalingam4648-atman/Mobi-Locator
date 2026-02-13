@@ -1,7 +1,7 @@
-📱 Mobiscan – Mobile Security App
+📱 Mobi-locator – Mobile Security App
 Phase 1 Triggering Activities via SMS
 
-Mobiscan is a powerful Android security application that provides remote phone finder, GPS location tracking, and SMS-based security control.
+Mobilocator is a powerful Android security application that provides remote phone finder, GPS location tracking, and SMS-based security control.
 This document covers Phase 1 implementation only (SIM card tracking will be Phase 2).
 
 🌟 Features (Phase 1)
